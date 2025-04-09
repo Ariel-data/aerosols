@@ -2,13 +2,13 @@
 name: Data request
 about: 'Make requeston for or any question about the data availability, quality, sources,
   coverage '
-title: ''
+title: "[Molecule],[Particle],[Formula]"
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
+**Is your data or request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
 **Describe the species and data you'd like**
